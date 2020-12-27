@@ -1,0 +1,136 @@
+.container {
+  position: relative;
+  width: 1200px;
+  height: 730px;
+  left: 0px;
+  top: 0px;
+}
+
+.container .left-side {
+  float: left;
+  position: absolute;
+  width: 330px;
+  height: 730px;
+  left: 0px;
+  top: 0px;
+  background: #000000;
+}
+
+.container .left-side .top {
+  position: absolute;
+  width: 260px;
+  height: 85px;
+  left: 30px;
+  top: 35px;
+  background: #FEAB51;
+}
+
+.container .left-side .top .explore {
+  width: 882px;
+  height: 132px;
+  left: 93px;
+  top: 53px;
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 49px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.container .left-side .content-list {
+  margin-top: 185px;
+}
+
+.container .left-side .content-list .list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: antiquewhite;
+  margin-top: 15px;
+  padding: 0px;
+  font-size: 35px;
+}
+
+.container .left-side .bottom {
+  position: absolute;
+  width: 257px;
+  height: 83px;
+  left: 31px;
+  top: 610px;
+  background: #FEAB51;
+}
+
+.container .left-side .bottom .learn-more {
+  width: 882px;
+  height: 132px;
+  left: 55px;
+  top: 924px;
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 49px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.container .right-side {
+  float: right;
+  width: 870px;
+  height: 730px;
+}
+
+.container .right-side img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 850px;
+  height: 730px;
+}
+
+.container .right-side .icon {
+  position: absolute;
+  width: 96px;
+  height: 76px;
+  left: 400px;
+  top: 46px;
+}
+
+.container .right-side .icon i {
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  color: #ffffff;
+  font-size: 50px;
+}
+
+.container .right-side .new-york h1 {
+  position: absolute;
+  width: 882px;
+  height: 132px;
+  left: 418px;
+  top: 30px;
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 153px;
+  color: #FFFFFF;
+}
+
+.container .right-side .express-yourself p {
+  position: absolute;
+  width: 922px;
+  height: 95px;
+  left: 427px;
+  top: 120px;
+  font-family: Prata;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 87px;
+  color: #FEAB51;
+}
+/*# sourceMappingURL=style.css.map */
